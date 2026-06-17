@@ -1,21 +1,18 @@
-# Roadmap
-
-## V0.1
-
-- [ ] WhatsApp Connection
-- [ ] AI Chat
-- [ ] Reminder
-- [ ] Todo List
-- [ ] Notes
-
-## V0.2
-
-- [ ] User Memory
-- [ ] Daily Summary
-- [ ] Statistics
-
-## V1.0
-
-- [ ] Multi User
-- [ ] Group Support
-- [ ] Dashboard
+V0.1
+ [ ]WhatsMeow
+ [ ]Router Message
+ [ ]AI Chat
+ [ ]Reminder
+ [ ]Todo
+ [ ]Notes
+V0.2
+ [ ]KB (Catatan Pintar)
+ [ ]User Memory
+ [ ]Daily Summary
+V0.3
+ [ ]Habit Tracking
+ [ ]Statistics
+ [ ]Smart Reminder
+V1.0
+ [ ]Multi User
+ [ ]Group Support
